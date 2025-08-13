@@ -1,0 +1,10 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "title": "Work 1",
+            "description": "Description 1",
+            "image": "image1.jpg"
+        }
+    ]
+}
