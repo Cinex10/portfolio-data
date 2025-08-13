@@ -1,40 +1,51 @@
-[
-    {
-        "title": "AI Resume Analyzer",
-        "key": "project-1",
-        "description": "A cross-platform app that analyzes resumes with NLP to extract skills, experience, and role fit.",
-        "briefDescription": "Resume insights powered by NLP.",
-        "date": "2024-06-15T00:00:00.000Z",
-        "tools": ["Dart", "Flutter", "Firebase", "OpenAI"],
-        "team": ["Solo"],
-        "psUrl": "https://github.com/yourname/ai-resume-analyzer",
-        "asUrl": "https://yourdomain.com/ai-resume-analyzer",
-        "createdAt": "2024-06-01T12:00:00.000Z",
-        "updatedAt": "2024-06-20T12:00:00.000Z",
-        "publishedAt": "2024-06-21T12:00:00.000Z",
-        "mainPicture": {
-          "data": {
+{
+    "data": [
+        {
+            "key": "project-1",
             "attributes": {
-              "name": "test.jpeg",
-              "url": "/test.jpeg"
+                "title": "AI Resume Analyzer",
+                "description": "A cross-platform app that analyzes resumes with NLP to extract skills, experience, and role fit.",
+                "briefDescription": "Resume insights powered by NLP.",
+                "date": "2024-06-15T00:00:00.000Z",
+                "tools": [
+                    "Dart",
+                    "Flutter",
+                    "Firebase",
+                    "OpenAI"
+                ],
+                "team": [
+                    "Solo"
+                ],
+                "psUrl": "https://github.com/yourname/ai-resume-analyzer",
+                "asUrl": "https://yourdomain.com/ai-resume-analyzer",
+                "createdAt": "2024-06-01T12:00:00.000Z",
+                "updatedAt": "2024-06-20T12:00:00.000Z",
+                "publishedAt": "2024-06-21T12:00:00.000Z",
+                "mainPicture": {
+                    "data": {
+                        "attributes": {
+                            "name": "test.jpeg",
+                            "url": "/test.jpeg"
+                        }
+                    }
+                },
+                "pictures": {
+                    "data": [
+                        {
+                            "attributes": {
+                                "name": "test.jpeg",
+                                "url": "/test.jpeg"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "name": "test.jpeg",
+                                "url": "/test.jpeg"
+                            }
+                        }
+                    ]
+                }
             }
-          }
-        },
-        "pictures": {
-          "data": [
-            {
-              "attributes": {
-                "name": "test.jpeg",
-                "url": "/test.jpeg"
-              }
-            },
-            {
-              "attributes": {
-                "name": "test.jpeg",
-                "url": "/test.jpeg"
-              }
-            }
-          ]
         }
-      }
-]
+    ]
+}
